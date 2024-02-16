@@ -8,6 +8,8 @@ Esta es una aplicación usando patrón de Arquitectura Modelo-Vista-Controlador,
 * views/heroe/*.php
 ## Controlador
 *  controllers/HeroesController.php
+## Rutas 
+* Config/Routes.php
 ## _Configuración del projecto (archivo .env)._
 
 * public string $baseURL = 'http://localhost/marvel_comics_app/public/';
